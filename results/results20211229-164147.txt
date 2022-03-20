@@ -1,0 +1,8 @@
+[epoch: 0]
+train_loss: 0.4900
+lr: 0.000060
+global correct: 93.8
+average row correct: ['100.0', '0.0']
+IoU: ['93.8', '0.0']
+mean IoU: 46.9
+

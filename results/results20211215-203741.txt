@@ -1,0 +1,32 @@
+[epoch: 0]
+train_loss: 2.0969
+lr: 0.000100
+global correct: 5.6
+average row correct: ['0.0', '100.0', '0.0', '0.0', '0.0', '0.0', '0.0']
+IoU: ['0.0', '5.6', '0.0', '0.0', '0.0', '0.0', '0.0']
+mean IoU: 0.8
+
+[epoch: 1]
+train_loss: 2.0752
+lr: 0.000098
+global correct: 5.6
+average row correct: ['0.0', '100.0', '0.0', '0.0', '0.0', '0.0', '0.0']
+IoU: ['0.0', '5.6', '0.0', '0.0', '0.0', '0.0', '0.0']
+mean IoU: 0.8
+
+[epoch: 2]
+train_loss: 2.0044
+lr: 0.000096
+global correct: 5.6
+average row correct: ['0.0', '100.0', '0.0', '0.0', '0.0', '0.0', '0.0']
+IoU: ['0.0', '5.6', '0.0', '0.0', '0.0', '0.0', '0.0']
+mean IoU: 0.8
+
+[epoch: 3]
+train_loss: 2.0732
+lr: 0.000094
+global correct: 5.6
+average row correct: ['0.0', '99.9', '0.0', '0.0', '0.0', '0.3', '0.0']
+IoU: ['0.0', '5.6', '0.0', '0.0', '0.0', '0.3', '0.0']
+mean IoU: 0.8
+
